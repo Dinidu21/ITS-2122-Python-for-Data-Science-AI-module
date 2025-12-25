@@ -1,1 +1,1 @@
-# ITS-2122-Python-for-Data-Science-AI-module
+# Strategic Patient Risk Stratification & Readmission Predictive Modeling for Vitality Health Network
